@@ -2,7 +2,7 @@
 
 ### HTML 規則
 
-<img src="https://i.imgur.com/pZVuOsA.png" width="400" height="12"/>
+<img src="https://i.imgur.com/pZVuOsA.png" width="400" height="120"/>
 
 <img src="https://i.imgur.com/rMSAXg7.png" width="600" height="70"/>
 
