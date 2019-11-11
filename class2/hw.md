@@ -20,7 +20,7 @@
 
 ### 作業：做一個「前端小小班」的網頁
 
-![](https://i.imgur.com/HAavp87.png =400x)
+<img src="https://i.imgur.com/HAavp87.png" width="400"/>
 
 ```html
 <h1>前端小小班</h1>

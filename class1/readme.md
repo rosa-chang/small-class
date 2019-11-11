@@ -101,10 +101,10 @@
 
 -   前端工程師常用編輯器
 
-    -   Sublime Text ![](https://i.imgur.com/BHFa38G.png =30x30)
-    -   VSCode ![](https://i.imgur.com/bWsQKNY.png =30x30) (市佔率較高、很多大神的插件給你裝)
-    -   Atom ![](https://i.imgur.com/dWWRgze.png =30x30)
-    -   Webstorm ![](https://i.imgur.com/7dA1rpg.png =30x30) (PhpStorm 的兄弟)
+    -   Sublime Text <img src="https://i.imgur.com/BHFa38G.png" width="30" height="30"/>
+    -   VSCode <img src="https://i.imgur.com/bWsQKNY.png" width="30" height="30"/> (市佔率較高、很多大神的插件給你裝)
+    -   Atom <img src="https://i.imgur.com/dWWRgze.png" width="30" height="30"/>
+    -   Webstorm <img src="https://i.imgur.com/7dA1rpg.png" width="30" height="30"/>(PhpStorm 的兄弟)
 
 -   常用線上編輯器
     -   [jsbin](https://jsbin.com/)

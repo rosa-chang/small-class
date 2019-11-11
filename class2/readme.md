@@ -2,9 +2,9 @@
 
 ### HTML 規則
 
-![](https://i.imgur.com/pZVuOsA.png =400x120)
+<img src="https://i.imgur.com/pZVuOsA.png" width="400" height="12"/>
 
-![](https://i.imgur.com/rMSAXg7.png =600x70)
+<img src="https://i.imgur.com/rMSAXg7.png" width="600" height="70"/>
 
 -   名詞
     -   標籤 Tag
