@@ -21,3 +21,45 @@
 ### 作業：做一個「前端小小班」的網頁
 
 ![](https://i.imgur.com/HAavp87.png =400x)
+
+```html
+<h1>前端小小班</h1>
+<a href="#">報名</a>
+<h3>老師：</h3>
+<img src="http://i.imgur.com/WmPUsjA.jpg" alt="老師的美圖" width="100" />
+<h3>學生表：</h3>
+<table border="1">
+	<tr>
+		<th>座號</th>
+		<th>暱稱</th>
+		<th>性別</th>
+		<th>地區</th>
+		<th>團隊</th>
+		<th>備註</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Pan</td>
+		<td>男</td>
+		<td>台中</td>
+		<td>Teller、Account</td>
+		<td>我想要轉型工程師</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Joey</td>
+		<td>男</td>
+		<td>其他</td>
+		<td>維運</td>
+		<td>我不想當維運了啦</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Rosa</td>
+		<td>女</td>
+		<td>桃園</td>
+		<td>維運</td>
+		<td>我不知道</td>
+	</tr>
+</table>
+```
